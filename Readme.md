@@ -95,3 +95,6 @@ This project is licensed under the terms in the LICENSE file provided with the s
 This project was developed as part of an exercise in resource sharing and contention detection on real-time operating systems for embedded systems.
 
 ---
+
+## exercise 5 Exercise 5 – Demonstrate access contention problems
+https://github.com/thamyis100/contention-problems/issues/1#issue-2657430543
